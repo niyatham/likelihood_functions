@@ -1,2 +1,2 @@
 # AdvanceBusinessAnalytics
- Likellihood Functions
+ Likelihood Functions
